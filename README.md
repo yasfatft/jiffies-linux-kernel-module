@@ -1,4 +1,4 @@
-# linuxKernalModule
+# linux Kernal Module
 here are 2 LKM that was implemented by myself. 
 ## 1. jiffies module 
 this module can be loaded to the linux kernal and work also as a linux proccess. after loading the module into kernel if you call the proccess it shows the number of interrups that had been occured into the CPU since start-up of the system!
